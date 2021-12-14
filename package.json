@@ -1,0 +1,20 @@
+{
+  "name": "intl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx sandbox",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@architect/architect": "^9.4.2",
+    "@architect/sandbox": "^4.4.2"
+  },
+  "dependencies": {
+    "@enhance/ssr": "^1.0.0"
+  }
+}
